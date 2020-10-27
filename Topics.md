@@ -1,5 +1,5 @@
 Todo topics:
-- [] Shadowsocks原理
+- [ ] Shadowsocks原理
   - Socks协议
   - ...
-- [] Proxy
+- [ ] Proxy
